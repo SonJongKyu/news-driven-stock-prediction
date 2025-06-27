@@ -33,4 +33,5 @@ pip install -r requirements.txt
   year         = {2025},
   url          = {https://github.com/SonJongKyu/news-driven-stock-prediction.git},
   note         = {Master's Thesis, Sungkyunkwan University}
+  Contact      = {human248@skku.edu}
 }
