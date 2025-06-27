@@ -16,25 +16,21 @@ We apply this model to KOSPI-listed shipbuilding and electrical equipment compan
 
 ## ⚙️ Install
 
-To reproduce the results, install the required dependencies.
-
-### 🔹 Option 1: With pip
+To reproduce the results, you can install the required dependencies using either **pip** or **conda**.
 
 ```bash
+# ▶ Option 1: Using pip
 pip install -r requirements.txt
 
-
-### 🔹 Option 2: With conda (recommended)
-
+# ▶ Option 2: Using conda (recommended)
 conda create -n stock-news python=3.9
 conda activate stock-news
 pip install -r requirements.txt
-
 
 @misc{Son2025,
   author       = {Son, JongKyu},
   title        = {Stock Movement Prediction Leveraging News Data and Support Vector Machines},
   year         = {2025},
-  url          = {https://github.com/SonJongKyu/news-driven-stock-prediction.git}
-  Email        = {human248@skku.edu}
+  url          = {https://github.com/SonJongKyu/news-driven-stock-prediction.git},
+  note         = {Master's Thesis, Sungkyunkwan University}
 }
