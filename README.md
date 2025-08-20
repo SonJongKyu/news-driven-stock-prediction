@@ -40,7 +40,7 @@
 
 To reproduce the results, you can install the required dependencies using either **pip** or **conda**.
 
-```bash
+```
 # ▶ Option 1: Using pip
 pip install -r requirements.txt
 
@@ -57,3 +57,4 @@ pip install -r requirements.txt
   note         = {Master's Thesis, Sungkyunkwan University}
   Contact      = {human248@skku.edu}
 }
+```
